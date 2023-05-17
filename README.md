@@ -11,4 +11,4 @@ documenti sul piano triennale informatica (attuativo del C.A.D.)
 
 
 ## Piano triennale informatica comune di Palermo
-[*Aggiornamento 2023 del Piano triennale informatica 2022-2024 del comuen di Palermo*](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/piano-triennale-informatica/raw/main/Comune-Palermo-piano-triennale-informatica/aggiornamento-2023-piano-triennale-informatica-2022_2024-comune-palermo/deliberazione_GC_133_12_maggio_2023_adozione_aggiornamento_2023_piano_informatica_2022-2024-completo.pdf)
+[**Aggiornamento 2023 del Piano triennale informatica 2022-2024 del comune di Palermo**](https://docs.google.com/viewer?url=https://github.com/UO-TransizioneDigitaleComunePalermo/piano-triennale-informatica/raw/main/Comune-Palermo-piano-triennale-informatica/aggiornamento-2023-piano-triennale-informatica-2022_2024-comune-palermo/deliberazione_GC_133_12_maggio_2023_adozione_aggiornamento_2023_piano_informatica_2022-2024-completo.pdf)
