@@ -1,4 +1,4 @@
-# piano-triennale-informatica
+# Piano triennale informatica
 
 documenti sul piano triennale informatica (attuativo del C.A.D.)
 
