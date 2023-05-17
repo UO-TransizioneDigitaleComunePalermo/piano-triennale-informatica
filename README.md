@@ -2,7 +2,6 @@
 
 documenti sul piano triennale informatica (attuativo del C.A.D.)
 
----
 
 ## Il presente repository include anche documenti su "`Linee guida di design per i siti internet e i servizi digitali della PA (2022)`"
 
